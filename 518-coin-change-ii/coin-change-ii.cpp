@@ -21,7 +21,33 @@ public:
         return dp[idx][amount] = take + ntk;
     }
     int change(int amount, vector<int>& coins) {
-        vector<vector<int>>dp(coins.size(),vector<int>(amount+1,-1));
-        return helper(coins,amount,coins.size()-1,dp);
+        long long modulo=1e10+7;
+        vector<vector<long long >>dp(coins.size()+2,vector<long long >(amount+2,-1));
+        // return helper(coins,amount,coins.size()-1,dp);
+        int n = coins.size();
+        if(amount == 0) {
+            return 1;
+        }
+        if(n==0)
+          return 0;
+        for(int i =0;i<=n;i++)
+        dp[i][0] = 1;
+        for(int i =0;i<=amount;i++)
+        {
+            dp[0][i] = 0;
+        }
+        for(int i =1;i<=coins.size();i++)
+        {
+            for(int j =1;j<=amount;j++)
+            {
+                long long  take = 0;
+                if(coins[i-1]<=j)
+                take = dp[i][j-coins[i-1]];
+                long long  ntk = dp[i-1][j];
+                dp[i][j] = (take + ntk)%modulo;
+            }
+        }
+
+    return dp[coins.size()][amount];
     }
 };
