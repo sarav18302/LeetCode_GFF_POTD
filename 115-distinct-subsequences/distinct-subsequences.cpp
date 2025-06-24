@@ -22,7 +22,31 @@ public:
         return dp[idx][it] = ntk + take;
     }
     int numDistinct(string s, string t) {
-        vector<vector<int>> dp(s.size(),vector<int>(t.size(),-1));
-        return helper(s,t,s.size()-1,"",t.size()-1,dp);
+        vector<vector<long long>> dp(s.size()+1,vector<long long>(t.size()+1,0));
+        // return helper(s,t,s.size()-1,"",t.size()-1,dp);
+        static int MOD = (int)1e9 + 7;    
+        int n = s.size(), m = t.size();
+        for(int i=0;i<=n;i++)
+        {
+            dp[i][0]=1;
+        }
+        for(int i=1;i<=m;i++)
+        {
+            dp[0][i]=0;
+        }
+        for(int i =1;i<=n;i++)
+        {
+            for(int j =1;j<=m;j++)
+            {
+                long long take = 0;
+                if(s[i-1]==t[j-1])
+                {
+                    take = dp[i-1][j-1];
+                }
+                long long ntk = dp[i-1][j];
+                dp[i][j]= (take+ntk) % MOD;
+            }
+        }
+        return (int)dp[n][m];
     }
 };
