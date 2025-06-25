@@ -31,7 +31,7 @@ public:
         {
             for(int j = 0;j<=1;j++)
             {
-                for(int k =1;k<=2;k++)
+                for(int k =0;k<=1;k++)
                 {
                     int opt1 = 0,opt2 = 0;
                     if(j ==0)
@@ -42,12 +42,12 @@ public:
                     else
                     {
                         opt1 = dp[i+1][1][k];
-                        opt2 = prices[i] +dp[i+1][0][k-1];
+                        opt2 = prices[i] +dp[i+1][0][k+1];
                     }
                     dp[i][j][k] = max(opt1,opt2);
                 }
             }
         }
-        return dp[0][0][2];
+        return dp[0][0][0];
     }
 };
