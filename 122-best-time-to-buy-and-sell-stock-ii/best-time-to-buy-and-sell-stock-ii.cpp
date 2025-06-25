@@ -19,7 +19,26 @@ public:
         return dp[idx][buy] = max(opt1,opt2);
     } 
     int maxProfit(vector<int>& prices) {
-        vector<vector<int>> dp(prices.size(),vector<int>(2,-1));
-       return helper(prices, 0,0,dp) ;
+        vector<vector<int>> dp(prices.size()+1,vector<int>(2,-1));
+    //    return helper(prices, 0,0,dp) ;
+    int n = prices.size();
+    dp[n][0] = dp[n][1] = 0;
+    long profit;
+    for(int ind = prices.size()-1;ind>=0;ind--)
+    {
+        for(int buy = 1;buy>=0;buy--)
+        {
+            if (buy == 0) { // We can buy the stock
+                profit = max(0 + dp[ind + 1][0], -prices[ind] + dp[ind + 1][1]);
+            }
+
+            if (buy == 1) { // We can sell the stock
+                profit = max(0 + dp[ind + 1][1], prices[ind] + dp[ind + 1][0]);
+            }
+
+            dp[ind][buy] = profit;
+        }
+    }
+    return dp[0][0];
     }
 };
