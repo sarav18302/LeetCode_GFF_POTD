@@ -16,7 +16,21 @@ public:
         int n = nums.size();
         nums.insert(nums.begin(),1);
         nums.push_back(1);
-        vector<vector<int>> dp(nums.size(),vector<int>(nums.size(),-1));
-        return helper(nums,1,n,dp);
+        vector<vector<int>> dp(nums.size()+1,vector<int>(nums.size()+1,0));
+        // return helper(nums,1,n,dp);
+        for(int i = n;i>=1;i--)
+        {
+            for(int j = i;j<=n;j++)
+            {
+                int maxi = -1e9;
+                for(int idx = i;idx<=j;idx++)
+                {
+                    int cost = nums[i-1]*nums[idx]*nums[j+1] + dp[i][idx-1] +dp[idx+1][j];
+                    maxi = max(maxi,cost);
+                }
+                dp[i][j] = maxi;
+            }
+        }
+        return dp[1][n];
     }
 };
