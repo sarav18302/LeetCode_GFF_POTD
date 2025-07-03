@@ -27,7 +27,21 @@ public:
         return dp[i] = mini;
     }
     int minCut(string s) {
-        vector<int> dp(s.size(),-1);
-        return helper(s,0,dp) -1;
+        vector<int> dp(s.size()+1,0);
+        // return helper(s,0,dp) -1;
+        for(int i = s.size()-1;i>=0;i--)
+        {
+            int mini = 1e9;
+            for(int j =i;j<s.size();j++)
+            {
+                if(isValid(s,i,j))
+                {
+                    int take = 1 + dp[j+1];
+                    mini = min(mini,take);
+                }
+            }
+            dp[i] = mini;
+        }
+        return dp[0]-1;
     }
 };
