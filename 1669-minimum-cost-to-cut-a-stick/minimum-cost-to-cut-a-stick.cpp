@@ -18,7 +18,23 @@ public:
         cuts.insert(cuts.begin(),0);
         cuts.push_back(n);
         sort(cuts.begin(),cuts.end());
-        vector<vector<int>>dp(cuts.size(),vector<int>(cuts.size(),-1));
-        return helper(cuts,1,N,dp);
+        vector<vector<int>>dp(cuts.size()+2,vector<int>(cuts.size()+2,0));
+        // return helper(cuts,1,N,dp);
+        // cout<<N<<endl;
+        for(int i = N;i>=1;i--)
+        {
+            for(int j = i;j<=N;j++)
+            {
+                int mini = 1e9;
+                for(int idx = i;idx<=j;idx++)
+                {
+                    // cout<<i<<" "<<j<<" "<<idx<<endl;
+                    int  cost = (cuts[j+1] - cuts[i-1]) +dp[i][idx-1] + dp[idx+1][j];
+                    mini = min(mini,cost);
+                }
+                dp[i][j] = mini;
+            }
+        }
+    return dp[1][N];
     }
 };
