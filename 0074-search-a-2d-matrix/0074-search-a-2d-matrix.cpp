@@ -3,7 +3,7 @@ public:
     bool searchMatrix(vector<vector<int>>& matrix, int target) {
         int m = matrix.size(), n = matrix[0].size();
         int l1 = 0, r1= m-1;
-        int idx = -1;
+        int idx = 0;
         while(l1<=r1)
         {
             int mid = (l1+r1)/2;
@@ -17,8 +17,8 @@ public:
             else
             r1 = mid-1;
         }
-        if(idx == -1)
-        return false;
+        // if(idx == -1)
+        // return false;
         int l = 0, r = n-1;
         while(l<=r)
         {
