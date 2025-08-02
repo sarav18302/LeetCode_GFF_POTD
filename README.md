@@ -48,6 +48,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0005-longest-palindromic-substring) |
 | [0410-split-array-largest-sum](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -72,6 +73,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0205-isomorphic-strings) |
@@ -90,6 +92,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0151-reverse-words-in-a-string) |
 ## Math
 |  |
