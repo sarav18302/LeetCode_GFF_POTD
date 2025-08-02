@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0035-search-insert-position) |
@@ -71,6 +72,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2032-largest-odd-number-in-string) |
@@ -86,4 +88,8 @@
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2032-largest-odd-number-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
