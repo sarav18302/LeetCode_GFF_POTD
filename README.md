@@ -70,9 +70,14 @@
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1078-remove-outermost-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1078-remove-outermost-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
