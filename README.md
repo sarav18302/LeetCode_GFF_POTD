@@ -110,6 +110,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0013-roman-to-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
@@ -152,6 +153,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0142-linked-list-cycle-ii) |
@@ -163,6 +165,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
