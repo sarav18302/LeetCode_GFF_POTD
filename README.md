@@ -142,5 +142,10 @@
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0908-middle-of-the-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
