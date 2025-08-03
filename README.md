@@ -77,6 +77,7 @@
 | [0005-longest-palindromic-substring](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0014-longest-common-prefix) |
+| [0038-count-and-say](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0242-valid-anagram) |
