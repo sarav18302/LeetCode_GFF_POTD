@@ -99,6 +99,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0005-longest-palindromic-substring) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0151-reverse-words-in-a-string) |
@@ -148,6 +149,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0206-reverse-linked-list) |
