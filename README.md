@@ -112,6 +112,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0231-power-of-two) |
 | [2032-largest-odd-number-in-string](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
@@ -173,5 +174,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
