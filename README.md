@@ -10,6 +10,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0035-search-insert-position) |
+| [0063-unique-paths-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -54,6 +55,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0063-unique-paths-ii) |
 | [0198-house-robber](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0410-split-array-largest-sum) |
@@ -75,6 +77,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0240-search-a-2d-matrix-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2047-find-a-peak-element-ii) |
