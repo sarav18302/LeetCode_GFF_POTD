@@ -118,6 +118,7 @@
 | [0050-powx-n](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0231-power-of-two) |
+| [0900-reordered-power-of-2](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0900-reordered-power-of-2) |
 | [2032-largest-odd-number-in-string](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -133,6 +134,7 @@
 | [0205-isomorphic-strings](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0451-sort-characters-by-frequency) |
+| [0900-reordered-power-of-2](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0900-reordered-power-of-2) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## String Matching
 |  |
@@ -143,6 +145,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0451-sort-characters-by-frequency) |
+| [0900-reordered-power-of-2](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0900-reordered-power-of-2) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -155,6 +158,7 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0451-sort-characters-by-frequency) |
+| [0900-reordered-power-of-2](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0900-reordered-power-of-2) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Linked List
 |  |
@@ -191,6 +195,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0204-count-primes) |
+| [0900-reordered-power-of-2](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0900-reordered-power-of-2) |
 ## Number Theory
 |  |
 | ------- |
