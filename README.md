@@ -83,6 +83,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -133,6 +134,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0451-sort-characters-by-frequency) |
 | [0900-reordered-power-of-2](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0900-reordered-power-of-2) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -200,4 +202,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0204-count-primes) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
