@@ -14,6 +14,7 @@
 | [0074-search-a-2d-matrix](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0120-triangle](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0120-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0198-house-robber) |
@@ -56,6 +57,7 @@
 | [0005-longest-palindromic-substring](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0063-unique-paths-ii) |
+| [0120-triangle](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0410-split-array-largest-sum) |
