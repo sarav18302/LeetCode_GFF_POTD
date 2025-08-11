@@ -31,6 +31,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2047-find-a-peak-element-ii) |
+| [2529-range-product-queries-of-powers](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2529-range-product-queries-of-powers) |
 ## Binary Search
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0410-split-array-largest-sum) |
+| [2529-range-product-queries-of-powers](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2529-range-product-queries-of-powers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -203,6 +205,7 @@
 | [0078-subsets](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0231-power-of-two) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2529-range-product-queries-of-powers](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2529-range-product-queries-of-powers) |
 ## Backtracking
 |  |
 | ------- |
