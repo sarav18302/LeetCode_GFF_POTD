@@ -66,6 +66,7 @@
 | [0213-house-robber-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0410-split-array-largest-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0967-minimum-falling-path-sum) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Greedy
 |  |
 | ------- |
