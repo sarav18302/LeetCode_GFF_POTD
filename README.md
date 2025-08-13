@@ -140,6 +140,7 @@
 | [0062-unique-paths](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0062-unique-paths) |
 | [0204-count-primes](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0326-power-of-three) |
 | [0900-reordered-power-of-2](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0900-reordered-power-of-2) |
 | [2032-largest-odd-number-in-string](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
@@ -204,6 +205,7 @@
 | [0206-reverse-linked-list](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0326-power-of-three) |
 ## Bit Manipulation
 |  |
 | ------- |
