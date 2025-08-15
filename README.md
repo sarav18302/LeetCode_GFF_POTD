@@ -71,6 +71,7 @@
 | [0198-house-robber](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0678-valid-parenthesis-string) |
 | [0967-minimum-falling-path-sum](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0967-minimum-falling-path-sum) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Greedy
@@ -80,6 +81,7 @@
 | [0410-split-array-largest-sum](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0678-valid-parenthesis-string) |
 | [0876-hand-of-straights](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -117,6 +119,7 @@
 | [0402-remove-k-digits](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1078-remove-outermost-parentheses) |
@@ -132,6 +135,7 @@
 | [0402-remove-k-digits](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0678-valid-parenthesis-string) |
 | [0937-online-stock-span](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1078-remove-outermost-parentheses) |
