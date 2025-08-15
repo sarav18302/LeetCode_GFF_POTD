@@ -14,6 +14,7 @@
 | [0074-search-a-2d-matrix](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0084-largest-rectangle-in-histogram) |
 | [0120-triangle](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0120-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0162-find-peak-element) |
@@ -122,6 +123,7 @@
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0496-next-greater-element-i) |
@@ -269,6 +271,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0503-next-greater-element-ii) |
