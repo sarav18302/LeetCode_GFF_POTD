@@ -31,6 +31,7 @@
 | [0621-task-scheduler](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0621-task-scheduler) |
 | [0792-binary-search](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0792-binary-search) |
 | [0876-hand-of-straights](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0876-hand-of-straights) |
+| [0890-lemonade-change](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0907-koko-eating-bananas) |
 | [0967-minimum-falling-path-sum](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0967-minimum-falling-path-sum) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -80,6 +81,7 @@
 | [0455-assign-cookies](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0876-hand-of-straights) |
+| [0890-lemonade-change](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2032-largest-odd-number-in-string](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2032-largest-odd-number-in-string) |
 ## Prefix Sum
