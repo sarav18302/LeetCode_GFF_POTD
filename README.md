@@ -128,6 +128,7 @@
 | [0402-remove-k-digits](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0503-next-greater-element-ii) |
+| [0937-online-stock-span](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -275,6 +276,7 @@
 | [0402-remove-k-digits](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0503-next-greater-element-ii) |
+| [0937-online-stock-span](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0937-online-stock-span) |
 ## Merge Sort
 |  |
 | ------- |
@@ -288,6 +290,7 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0937-online-stock-span](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0937-online-stock-span) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -301,6 +304,7 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0937-online-stock-span](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0937-online-stock-span) |
 ## Quickselect
 |  |
 | ------- |
