@@ -150,6 +150,7 @@
 | [0204-count-primes](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0342-power-of-four) |
 | [0900-reordered-power-of-2](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0900-reordered-power-of-2) |
 | [2032-largest-odd-number-in-string](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
@@ -231,12 +232,14 @@
 | [0231-power-of-two](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0342-power-of-four) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2529-range-product-queries-of-powers](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2529-range-product-queries-of-powers) |
 ## Backtracking
