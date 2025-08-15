@@ -175,6 +175,7 @@
 | [0347-top-k-frequent-elements](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0451-sort-characters-by-frequency) |
+| [0460-lfu-cache](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0876-hand-of-straights) |
@@ -227,6 +228,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0234-palindrome-linked-list) |
+| [0460-lfu-cache](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0460-lfu-cache) |
 | [0908-middle-of-the-linked-list](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
@@ -289,6 +291,7 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0295-find-median-from-data-stream) |
+| [0460-lfu-cache](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0460-lfu-cache) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0937-online-stock-span) |
 ## Binary Search Tree
@@ -309,4 +312,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0347-top-k-frequent-elements) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
