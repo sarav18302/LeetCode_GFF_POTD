@@ -91,6 +91,7 @@
 | [0876-hand-of-straights](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1448-maximum-69-number](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2032-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
@@ -173,6 +174,7 @@
 | [0326-power-of-three](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0342-power-of-four) |
 | [0900-reordered-power-of-2](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0900-reordered-power-of-2) |
+| [1448-maximum-69-number](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
 |  |
