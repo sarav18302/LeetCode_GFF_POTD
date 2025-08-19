@@ -41,6 +41,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2047-find-a-peak-element-ii) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2529-range-product-queries-of-powers) |
 ## Binary Search
 |  |
@@ -176,6 +177,7 @@
 | [0900-reordered-power-of-2](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0900-reordered-power-of-2) |
 | [1448-maximum-69-number](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2032-largest-odd-number-in-string) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Trie
 |  |
 | ------- |
