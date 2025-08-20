@@ -37,6 +37,7 @@
 | [0907-koko-eating-bananas](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0907-koko-eating-bananas) |
 | [0967-minimum-falling-path-sum](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0967-minimum-falling-path-sum) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1646-kth-missing-positive-number) |
@@ -78,6 +79,7 @@
 | [0435-non-overlapping-intervals](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0678-valid-parenthesis-string) |
 | [0967-minimum-falling-path-sum](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0967-minimum-falling-path-sum) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Greedy
 |  |
@@ -113,6 +115,7 @@
 | [0074-search-a-2d-matrix](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0240-search-a-2d-matrix-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0967-minimum-falling-path-sum) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2047-find-a-peak-element-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2047-find-a-peak-element-ii) |
 ## String
 |  |
