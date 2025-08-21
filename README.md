@@ -40,6 +40,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1628-count-submatrices-with-all-ones](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1628-count-submatrices-with-all-ones) |
 | [1646-kth-missing-positive-number](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2047-find-a-peak-element-ii) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -80,6 +81,7 @@
 | [0678-valid-parenthesis-string](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0678-valid-parenthesis-string) |
 | [0967-minimum-falling-path-sum](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0967-minimum-falling-path-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1628-count-submatrices-with-all-ones) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Greedy
 |  |
@@ -116,6 +118,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0240-search-a-2d-matrix-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0967-minimum-falling-path-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1628-count-submatrices-with-all-ones) |
 | [2047-find-a-peak-element-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2047-find-a-peak-element-ii) |
 ## String
 |  |
@@ -150,6 +153,7 @@
 | [0937-online-stock-span](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1078-remove-outermost-parentheses) |
+| [1628-count-submatrices-with-all-ones](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1628-count-submatrices-with-all-ones) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Two Pointers
 |  |
@@ -303,6 +307,7 @@
 | [0496-next-greater-element-i](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0937-online-stock-span) |
+| [1628-count-submatrices-with-all-ones](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1628-count-submatrices-with-all-ones) |
 ## Merge Sort
 |  |
 | ------- |
