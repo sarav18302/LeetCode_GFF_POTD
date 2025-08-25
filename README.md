@@ -28,6 +28,7 @@
 | [0435-non-overlapping-intervals](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0540-single-element-in-a-sorted-array) |
 | [0621-task-scheduler](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0621-task-scheduler) |
@@ -120,6 +121,7 @@
 | [0063-unique-paths-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0240-search-a-2d-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0498-diagonal-traverse) |
 | [0967-minimum-falling-path-sum](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0967-minimum-falling-path-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1628-count-submatrices-with-all-ones) |
@@ -353,4 +355,8 @@
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0460-lfu-cache) |
+## Simulation
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->
