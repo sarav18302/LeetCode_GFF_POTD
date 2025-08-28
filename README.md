@@ -50,6 +50,7 @@
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3748-sort-matrix-by-diagonals](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3748-sort-matrix-by-diagonals) |
 ## Binary Search
 |  |
 | ------- |
@@ -129,6 +130,7 @@
 | [2047-find-a-peak-element-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2047-find-a-peak-element-ii) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3748-sort-matrix-by-diagonals](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3748-sort-matrix-by-diagonals) |
 ## String
 |  |
 | ------- |
@@ -232,6 +234,7 @@
 | [0621-task-scheduler](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0876-hand-of-straights) |
 | [0900-reordered-power-of-2](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0900-reordered-power-of-2) |
+| [3748-sort-matrix-by-diagonals](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3748-sort-matrix-by-diagonals) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
