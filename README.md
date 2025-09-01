@@ -46,6 +46,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1628-count-submatrices-with-all-ones) |
 | [1646-kth-missing-positive-number](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1646-kth-missing-positive-number) |
+| [1917-maximum-average-pass-ratio](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1917-maximum-average-pass-ratio) |
 | [2047-find-a-peak-element-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2047-find-a-peak-element-ii) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2529-range-product-queries-of-powers) |
@@ -106,6 +107,7 @@
 | [0890-lemonade-change](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1448-maximum-69-number](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1448-maximum-69-number) |
+| [1917-maximum-average-pass-ratio](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1917-maximum-average-pass-ratio) |
 | [2032-largest-odd-number-in-string](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2032-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
@@ -251,6 +253,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1917-maximum-average-pass-ratio](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1917-maximum-average-pass-ratio) |
 ## Bucket Sort
 |  |
 | ------- |
