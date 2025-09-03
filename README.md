@@ -51,6 +51,7 @@
 | [2432-number-of-zero-filled-subarrays (must do)](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2529-range-product-queries-of-powers) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii (DO IT AGAIN)](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -203,6 +204,7 @@
 | [1448-maximum-69-number](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2032-largest-odd-number-in-string) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Trie
@@ -245,6 +247,7 @@
 | [0621-task-scheduler](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0876-hand-of-straights) |
 | [0900-reordered-power-of-2](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0900-reordered-power-of-2) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3748-sort-matrix-by-diagonals) |
 ## Heap (Priority Queue)
@@ -313,6 +316,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0204-count-primes) |
 | [0900-reordered-power-of-2](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0900-reordered-power-of-2) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Number Theory
@@ -381,5 +385,6 @@
 ## Geometry
 |  |
 | ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
