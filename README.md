@@ -204,6 +204,7 @@
 | [0342-power-of-four](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0342-power-of-four) |
 | [0900-reordered-power-of-2](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0900-reordered-power-of-2) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2032-largest-odd-number-in-string) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2432-number-of-zero-filled-subarrays) |
