@@ -96,6 +96,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1628-count-submatrices-with-all-ones) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Greedy
 |  |
@@ -391,6 +392,7 @@
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0498-diagonal-traverse) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Geometry
 |  |
 | ------- |
@@ -400,4 +402,8 @@
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Queue
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2408-number-of-people-aware-of-a-secret) |
 <!---LeetCode Topics End-->
