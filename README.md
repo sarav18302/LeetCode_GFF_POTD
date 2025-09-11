@@ -165,6 +165,7 @@
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2887-sort-vowels-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -257,6 +258,7 @@
 | [0621-task-scheduler](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0876-hand-of-straights) |
 | [0900-reordered-power-of-2](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0900-reordered-power-of-2) |
+| [2887-sort-vowels-in-a-string](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3748-sort-matrix-by-diagonals) |
