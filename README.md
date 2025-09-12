@@ -16,6 +16,7 @@
 | [0063-unique-paths-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram (HARD)](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0084-largest-rectangle-in-histogram) |
 | [0120-triangle (MUST DO)](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0120-triangle) |
@@ -135,6 +136,7 @@
 | [0037-sudoku-solver](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0498-diagonal-traverse) |
 | [0967-minimum-falling-path-sum](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0967-minimum-falling-path-sum) |
@@ -151,6 +153,7 @@
 | [0013-roman-to-integer](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0038-count-and-say) |
+| [0079-word-search](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0242-valid-anagram) |
@@ -327,6 +330,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0079-word-search) |
 ## Enumeration
 |  |
 | ------- |
@@ -418,4 +422,8 @@
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3462-vowels-game-in-a-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
