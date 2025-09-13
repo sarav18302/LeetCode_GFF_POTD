@@ -172,6 +172,7 @@
 | [2346-largest-3-same-digit-number-in-string](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3462-vowels-game-in-a-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
 | ------- |
@@ -249,6 +250,7 @@
 | [0900-reordered-power-of-2](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0900-reordered-power-of-2) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String Matching
 |  |
 | ------- |
@@ -292,6 +294,7 @@
 | [0621-task-scheduler](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0621-task-scheduler) |
 | [0900-reordered-power-of-2](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0900-reordered-power-of-2) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
 | ------- |
