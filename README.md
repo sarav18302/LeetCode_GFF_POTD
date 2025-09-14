@@ -40,6 +40,7 @@
 | [0890-lemonade-change](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0907-koko-eating-bananas) |
 | [0967-minimum-falling-path-sum](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0967-minimum-falling-path-sum) |
+| [1006-vowel-spellchecker](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1006-vowel-spellchecker) |
 | [1022-unique-paths-iii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1022-unique-paths-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -166,6 +167,7 @@
 | [0678-valid-parenthesis-string](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1006-vowel-spellchecker](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1006-vowel-spellchecker) |
 | [1078-remove-outermost-parentheses](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -249,6 +251,7 @@
 | [0621-task-scheduler](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0876-hand-of-straights) |
 | [0900-reordered-power-of-2](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0900-reordered-power-of-2) |
+| [1006-vowel-spellchecker](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1006-vowel-spellchecker) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3872-find-most-frequent-vowel-and-consonant) |
