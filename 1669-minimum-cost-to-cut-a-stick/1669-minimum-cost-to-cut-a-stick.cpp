@@ -18,7 +18,7 @@ public:
         int N = cuts.size();
         cuts.push_back(n);
         cuts.insert(cuts.begin(),0);
-        vector<vector<int>>dp(n+1,vector<int>(n+1,-1));
+        vector<vector<int>>dp(cuts.size()+1,vector<int>(cuts.size()+1,-1));
         return helper(cuts,1,N,dp);
     }
 };
