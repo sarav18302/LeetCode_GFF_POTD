@@ -50,6 +50,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1628-count-submatrices-with-all-ones) |
 | [1646-kth-missing-positive-number](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1646-kth-missing-positive-number) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1917-maximum-average-pass-ratio) |
 | [2047-find-a-peak-element-ii (DO IT AGAIN!!!)](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2047-find-a-peak-element-ii) |
@@ -100,6 +101,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1628-count-submatrices-with-all-ones) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Greedy
@@ -273,6 +275,7 @@
 | [0621-task-scheduler](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0876-hand-of-straights) |
 | [0900-reordered-power-of-2](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0900-reordered-power-of-2) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2887-sort-vowels-in-a-string](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
