@@ -169,6 +169,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1006-vowel-spellchecker](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1006-vowel-spellchecker) |
 | [1078-remove-outermost-parentheses](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1078-remove-outermost-parentheses) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2032-largest-odd-number-in-string) |
@@ -252,6 +253,7 @@
 | [0876-hand-of-straights](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0876-hand-of-straights) |
 | [0900-reordered-power-of-2](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0900-reordered-power-of-2) |
 | [1006-vowel-spellchecker](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1006-vowel-spellchecker) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3872-find-most-frequent-vowel-and-consonant) |
