@@ -55,6 +55,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1917-maximum-average-pass-ratio) |
 | [2047-find-a-peak-element-ii (DO IT AGAIN!!!)](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2047-find-a-peak-element-ii) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2429-design-a-food-rating-system](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays (must do)](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2529-range-product-queries-of-powers) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -177,6 +178,7 @@
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2429-design-a-food-rating-system](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -261,6 +263,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2429-design-a-food-rating-system](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2429-design-a-food-rating-system) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String Matching
 |  |
@@ -293,6 +296,7 @@
 | [0621-task-scheduler](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1917-maximum-average-pass-ratio](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1917-maximum-average-pass-ratio) |
+| [2429-design-a-food-rating-system](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2429-design-a-food-rating-system) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -398,6 +402,7 @@
 | [0460-lfu-cache](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0460-lfu-cache) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0937-online-stock-span) |
+| [2429-design-a-food-rating-system](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2429-design-a-food-rating-system) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -451,4 +456,8 @@
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0301-remove-invalid-parentheses) |
+## Ordered Set
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2429-design-a-food-rating-system) |
 <!---LeetCode Topics End-->
