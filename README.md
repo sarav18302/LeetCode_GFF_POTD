@@ -264,6 +264,7 @@
 | [1834-minimum-number-of-people-to-teach](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2429-design-a-food-rating-system](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3678-design-task-manager) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String Matching
 |  |
@@ -297,6 +298,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1917-maximum-average-pass-ratio](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1917-maximum-average-pass-ratio) |
 | [2429-design-a-food-rating-system](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3678-design-task-manager) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -403,6 +405,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0937-online-stock-span) |
 | [2429-design-a-food-rating-system](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3678-design-task-manager) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -460,4 +463,5 @@
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3678-design-task-manager) |
 <!---LeetCode Topics End-->
