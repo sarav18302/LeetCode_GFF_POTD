@@ -66,6 +66,7 @@
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3827-implement-router) |
 ## Binary Search
 |  |
 | ------- |
@@ -87,6 +88,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2047-find-a-peak-element-ii) |
+| [3827-implement-router](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3827-implement-router) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -269,6 +271,7 @@
 | [2429-design-a-food-rating-system](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String Matching
 |  |
@@ -411,6 +414,7 @@
 | [2429-design-a-food-rating-system](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3827-implement-router) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -452,6 +456,7 @@
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3827-implement-router](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3827-implement-router) |
 ## Game Theory
 |  |
 | ------- |
@@ -469,4 +474,5 @@
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3678-design-task-manager) |
+| [3827-implement-router](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3827-implement-router) |
 <!---LeetCode Topics End-->
