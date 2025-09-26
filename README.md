@@ -34,6 +34,7 @@
 | [0498-diagonal-traverse](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0621-task-scheduler) |
 | [0792-binary-search](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0792-binary-search) |
 | [0876-hand-of-straights](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0876-hand-of-straights) |
@@ -83,6 +84,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -119,6 +121,7 @@
 | [0410-split-array-largest-sum](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0678-valid-parenthesis-string) |
 | [0876-hand-of-straights](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0876-hand-of-straights) |
@@ -219,6 +222,7 @@
 | [0234-palindrome-linked-list](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0611-valid-triangle-number) |
 | [0908-middle-of-the-linked-list](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Math
@@ -295,6 +299,7 @@
 | [0435-non-overlapping-intervals](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0876-hand-of-straights) |
 | [0900-reordered-power-of-2](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0900-reordered-power-of-2) |
