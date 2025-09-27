@@ -37,6 +37,7 @@
 | [0611-valid-triangle-number](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0621-task-scheduler) |
 | [0792-binary-search](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0792-binary-search) |
+| [0830-largest-triangle-area](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0830-largest-triangle-area) |
 | [0876-hand-of-straights](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0907-koko-eating-bananas) |
@@ -238,6 +239,7 @@
 | [0231-power-of-two](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0342-power-of-four) |
+| [0830-largest-triangle-area](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0830-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0900-reordered-power-of-2) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -462,6 +464,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0830-largest-triangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Brainteaser
