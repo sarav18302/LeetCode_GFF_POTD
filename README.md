@@ -61,6 +61,7 @@
 | [2023-design-movie-rental-system](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2023-design-movie-rental-system) |
 | [2047-find-a-peak-element-ii (DO IT AGAIN!!!)](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2047-find-a-peak-element-ii) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays (must do)](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2529-range-product-queries-of-powers) |
@@ -256,6 +257,7 @@
 | [1448-maximum-69-number](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2032-largest-odd-number-in-string) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -416,6 +418,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0062-unique-paths) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -471,6 +474,7 @@
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0498-diagonal-traverse) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Geometry
 |  |
