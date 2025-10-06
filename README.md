@@ -41,6 +41,7 @@
 | [0611-valid-triangle-number](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0621-task-scheduler) |
 | [0792-binary-search](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0830-largest-triangle-area) |
 | [0876-hand-of-straights](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0890-lemonade-change) |
@@ -95,6 +96,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -171,6 +173,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0498-diagonal-traverse) |
+| [0794-swim-in-rising-water](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0794-swim-in-rising-water) |
 | [0967-minimum-falling-path-sum](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0967-minimum-falling-path-sum) |
 | [1022-unique-paths-iii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1022-unique-paths-iii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -345,6 +348,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0794-swim-in-rising-water](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0794-swim-in-rising-water) |
 | [1917-maximum-average-pass-ratio](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2429-design-a-food-rating-system) |
@@ -516,12 +520,14 @@
 | ------- |
 | [0079-word-search](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0079-word-search) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0794-swim-in-rising-water) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0301-remove-invalid-parentheses) |
 | [0407-trapping-rain-water-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0794-swim-in-rising-water) |
 ## Ordered Set
 |  |
 | ------- |
@@ -533,4 +539,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0070-climbing-stairs) |
+## Union Find
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0794-swim-in-rising-water) |
 <!---LeetCode Topics End-->
