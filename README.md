@@ -58,6 +58,7 @@
 | [1559-cherry-pickup-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1559-cherry-pickup-ii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1612-avoid-flood-in-the-city](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1612-avoid-flood-in-the-city) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1628-count-submatrices-with-all-ones) |
 | [1646-kth-missing-positive-number](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1646-kth-missing-positive-number) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -101,6 +102,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1612-avoid-flood-in-the-city](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1612-avoid-flood-in-the-city) |
 | [1646-kth-missing-positive-number](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2047-find-a-peak-element-ii) |
 | [3827-implement-router](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3827-implement-router) |
@@ -145,6 +147,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1018-largest-perimeter-triangle](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1448-maximum-69-number) |
+| [1612-avoid-flood-in-the-city](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1917-maximum-average-pass-ratio) |
 | [2032-largest-odd-number-in-string](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2032-largest-odd-number-in-string) |
@@ -306,6 +309,7 @@
 | [0900-reordered-power-of-2](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0900-reordered-power-of-2) |
 | [1006-vowel-spellchecker](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1612-avoid-flood-in-the-city](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2023-design-movie-rental-system](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2023-design-movie-rental-system) |
@@ -349,6 +353,7 @@
 | [0621-task-scheduler](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0794-swim-in-rising-water) |
+| [1612-avoid-flood-in-the-city](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1612-avoid-flood-in-the-city) |
 | [1917-maximum-average-pass-ratio](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2429-design-a-food-rating-system) |
