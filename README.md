@@ -68,6 +68,7 @@
 | [2047-find-a-peak-element-ii (DO IT AGAIN!!!)](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2047-find-a-peak-element-ii) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays (must do)](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2529-range-product-queries-of-powers) |
@@ -105,6 +106,7 @@
 | [1612-avoid-flood-in-the-city](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1612-avoid-flood-in-the-city) |
 | [1646-kth-missing-positive-number](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2047-find-a-peak-element-ii) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3827-implement-router](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3827-implement-router) |
 ## Dynamic Programming
 |  |
@@ -251,6 +253,7 @@
 | [0611-valid-triangle-number](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0611-valid-triangle-number) |
 | [0908-middle-of-the-linked-list](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Math
 |  |
 | ------- |
@@ -338,6 +341,7 @@
 | [0900-reordered-power-of-2](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1018-largest-perimeter-triangle) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
