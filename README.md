@@ -82,6 +82,7 @@
 | [3459-find-the-minimum-area-to-cover-all-ones-ii (DO IT AGAIN)](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3748-sort-matrix-by-diagonals) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -114,6 +115,7 @@
 | [2047-find-a-peak-element-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2047-find-a-peak-element-ii) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3827-implement-router](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3827-implement-router) |
 ## Dynamic Programming
 |  |
