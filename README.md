@@ -142,6 +142,7 @@
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Greedy
@@ -234,6 +235,7 @@
 | [2346-largest-3-same-digit-number-in-string](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2887-sort-vowels-in-a-string) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3462-vowels-game-in-a-string) |
 | [3797-design-spreadsheet](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -437,6 +439,7 @@
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2529-range-product-queries-of-powers](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2529-range-product-queries-of-powers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Backtracking
@@ -583,5 +586,6 @@
 ## Bitmask
 |  |
 | ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
