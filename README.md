@@ -230,6 +230,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -455,6 +456,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0204-count-primes) |
 | [0900-reordered-power-of-2](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0900-reordered-power-of-2) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -561,6 +563,7 @@
 | [0079-word-search](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0079-word-search) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0794-swim-in-rising-water) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -568,6 +571,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0794-swim-in-rising-water) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Ordered Set
 |  |
 | ------- |
