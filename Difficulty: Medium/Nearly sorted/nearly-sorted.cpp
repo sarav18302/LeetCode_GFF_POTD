@@ -1,23 +1,23 @@
 class Solution {
   public:
     void nearlySorted(vector<int>& arr, int k) {
-        // code
-        priority_queue<int, vector<int>, greater<int>> minheap;
-        for(int i =0;i<=k;i++)
-        minheap.push(arr[i]);
-        int idx = 0;
-        for(int i = k+1;i<arr.size();i++)
-        {
-            arr[idx] = minheap.top();
-            minheap.pop();
-            idx++;
-            minheap.push(arr[i]);
+        // code here
+         priority_queue<int, vector<int>, greater<int>>pq;
+        int n=arr.size();
+        int ind=0;
+        for(int i=0; i<n; i++){
+            pq.push(arr[i]);
+            if(pq.size()>k){
+                arr[ind]=pq.top();
+                ind++;
+                pq.pop();
+            }
         }
-        while(!minheap.empty())
-        {
-            arr[idx] = minheap.top();
-            minheap.pop();
-            idx++;
+        
+        while(!pq.empty()){
+            arr[ind]=pq.top();
+            ind++;
+            pq.pop();
         }
     }
 };
