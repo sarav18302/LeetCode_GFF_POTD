@@ -576,6 +576,7 @@
 | [0079-word-search](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0079-word-search) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0794-swim-in-rising-water) |
+| [0801-is-graph-bipartite](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0801-is-graph-bipartite) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Breadth-First Search
 |  |
@@ -584,6 +585,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0794-swim-in-rising-water) |
+| [0801-is-graph-bipartite](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0801-is-graph-bipartite) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Ordered Set
 |  |
@@ -600,9 +602,14 @@
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0794-swim-in-rising-water) |
+| [0801-is-graph-bipartite](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0801-is-graph-bipartite) |
 ## Bitmask
 |  |
 | ------- |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Graph
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
