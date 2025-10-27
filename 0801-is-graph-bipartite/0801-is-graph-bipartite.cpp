@@ -1,37 +1,34 @@
 class Solution {
 public:
+    bool dfs(int curr,int parent, vector<vector<int>>& graph,vector<int>&vis,vector<int>&color)
+    {
+        vis[curr] = 1;
+        for(auto x: graph[curr])
+        {
+            if(!vis[x])
+            {
+                color[x] = !color[curr];
+                if(!dfs(x,curr,graph,vis,color))
+                return false;
+            }
+            else if(color[x] == color[curr] && x!=parent)
+            {
+                return false;
+            }
+        }
+        return true;
+    }
     bool isBipartite(vector<vector<int>>& graph) {
         int n = graph.size();
-        vector<int> color(n,-1);
         vector<int> vis(n,0);
-        int a = 0;
-        // cout<<!a;
+        vector<int> color(n,-1);
         for(int i =0;i<n;i++)
         {
-            if(vis[i] == 1)
-            continue;
-            queue<pair<int,int>> q;
-            q.push({i,0});
-            color[i] = 0;
-            
-
-            while(!q.empty())
+            if(!vis[i] )
             {
-                int node = q.front().first;
-                int c = q.front().second;
-                q.pop();
-                vis[node] = 1;
-                // cout<<node<<endl;
-                for(auto x: graph[node])
-                {
-                    if(vis[x] == 0)
-                    {
-                        color[x] = !color[node];
-                        q.push({x,!color[node]});
-                    }
-                    else if(vis[x] == 1 && color[x] == color[node])
-                    return false;
-                }
+                color[i] = 0;
+                if(!dfs(i,-1,graph,vis,color))
+                return false;
             }
         }
         return true;
