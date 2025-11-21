@@ -226,6 +226,7 @@
 | [0014-longest-common-prefix](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0079-word-search) |
+| [0127-word-ladder](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0166-fraction-to-recurring-decimal) |
@@ -333,6 +334,7 @@
 | [0013-roman-to-integer](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0037-sudoku-solver) |
+| [0127-word-ladder](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0160-intersection-of-two-linked-lists) |
@@ -590,6 +592,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0127-word-ladder) |
 | [0301-remove-invalid-parentheses](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0301-remove-invalid-parentheses) |
 | [0407-trapping-rain-water-ii](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sarav18302/LeetCode_GFF_POTD/tree/master/0417-pacific-atlantic-water-flow) |
